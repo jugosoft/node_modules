@@ -1,0 +1,18 @@
+{
+    "name": "show-tree",
+    "version": "5.0.0-alpha.5",
+    "description": "Show Tree function",
+    "main": "lib/show-tree.js",
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "files": [
+    ],
+    "license": "",
+    "dependencies": {
+    },
+    "scripts": {
+      "start": "node ./bin/show-tree"
+    }
+  }
