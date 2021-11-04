@@ -1,7 +1,7 @@
 {
     "name": "show-tree",
     "version": "5.0.0-alpha.5",
-    "description": "Show Files in Directory",
+    "description": "Show Tree function",
     "main": "lib/show-tree.js",
     "repository": {
       "type": "git",
